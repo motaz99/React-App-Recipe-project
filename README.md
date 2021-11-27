@@ -2,7 +2,7 @@
 
 This project is just for learning how to fetch data.
 
-## What do you need to make work on you local host.
+## What do you need to make the code work on you local host.
 
 1. Clone the code to your PC
 2. Go and sign up at this website [https://developer.edamam.com/]
